@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdi</h1>
-<h3 align="center">I am a Software Engineering (web development)</h3>
+<h3 align="center">I am a Software Engineering (.net development)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed02001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed02001" /> </p>
 
