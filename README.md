@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full-Stack Software Engineer & Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-abd-el-gawad-682450398/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="ahmedhamdyy787@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://your-portfolio-website.com" target="_blank">
@@ -91,7 +91,7 @@
 - 🌱 Learning **advanced cloud architectures and microservices**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, and database design**
-- 📫 How to reach me: **[your-email@domain.com](mailto:your-email@domain.com)**
+- 📫 How to reach me: **[your-email@domain.com](mailto:ahmedhamdyy787@gmail.com)**
 - ⚡ Fun fact: **I enjoy solving complex problems and learning new technologies**
 
 ---
