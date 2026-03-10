@@ -53,10 +53,9 @@
 ### 🔧 **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badgeNest.js-339933?style=for-the-badge&logo=nestdotjs&logoColor=white" alt="Nest.js"/>
+  <img src="https://img.shields.io/badgeExpress.js-339933?style=for-the-badge&logo=expressdotjs&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 ### 🗄️ **Databases**
