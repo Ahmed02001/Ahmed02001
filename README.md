@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/ahmed-abd-el-gawad-682450398/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="ahmedhamdyy787@gmail.com">
+  <a href="mailto:ahmedhamdyy787@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!-- TODO: Replace the URL below with your real portfolio link, or remove this badge -->
   <a href="https://your-portfolio-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
@@ -82,30 +83,25 @@
 
 ---
 
-## 📈 Current Focus
+## 📈 Currently
 
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 Learning **advanced cloud architectures and microservices**
-- 👯 Looking to collaborate on **open-source projects**
+<!-- TODO: Replace these bullets with what YOU are specifically doing right now -->
+- 🔭 Building **[Your Project Name]** — [one sentence about what it does]
+- 🌱 Studying **AWS Solutions Architect** certification
+- 💼 Open to **full-stack / frontend roles** — based in Cairo, Egypt (open to remote)
 - 💬 Ask me about **React, Node.js, and database design**
-- 📫 How to reach me: **[your-email@domain.com](mailto:ahmedhamdyy787@gmail.com)**
+- 📫 Reach me at: **[ahmedhamdyy787@gmail.com](mailto:ahmedhamdyy787@gmail.com)**
 - ⚡ Fun fact: **I enjoy solving complex problems and learning new technologies**
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable Web Applications](https://your-blog.com/post1)
-- [Mastering TypeScript for Large Projects](https://your-blog.com/post2)
-- [DevOps Best Practices for Web Developers](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+## ✍️ Writing
 
----
-
-## 🎯 GitHub Activity
-
-<!-- RECENT_ACTIVITY:START -->
-<!-- RECENT_ACTIVITY:END -->
+<!-- TODO: Replace with links to your real articles on Dev.to, Medium, Hashnode, etc.
+     If you have no articles yet, delete this whole section. -->
+- [How to Build Scalable Web Applications](#)
+- [Mastering TypeScript for Large Projects](#)
+- [DevOps Best Practices for Web Developers](#)
 
 ---
 
